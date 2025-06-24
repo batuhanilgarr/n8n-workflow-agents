@@ -55,7 +55,7 @@ You MUST deliver ALL THREE components for EACH workflow requested. No exceptions
 </component_3>
 </critical_requirements>
 
-workflow_examples_usage>
+<workflow_examples_usage>
 <note>The user will provide workflow examples linked to the Manus Workflow system</note>
 <requirements>
 - Analyze provided workflow examples thoroughly
